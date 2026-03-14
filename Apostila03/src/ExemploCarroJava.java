@@ -20,7 +20,7 @@ public class ExemploCarroJava {
         System.out.println("Peso: " + gol.peso);
         System.out.println("Automatico: " + gol.automatico);
 
-        System.out.println("......................................................");
+        System.out.println("........................................................");
 
         //Criar um novo objeto do tipo carro
 
